@@ -1,0 +1,18 @@
+.generator{
+    background-color: aqua;
+    height: 50px;
+    width: 150px;
+}
+h1{
+    color: blue;
+}
+p {
+    color: aliceblue;
+}
+.test{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
